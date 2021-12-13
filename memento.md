@@ -30,7 +30,7 @@ Il faut simplement placer un astérisque devant les éléments de votre liste.
 
 ## Pour faire une liste ordonnée :
 
-1. Et de un 2. Et de deux 3. Et de trois
+`1. Et de un` `2. Et de deux` `3. Et de trois`
 
 ## Pour imbriquer une liste dans une autre :
 
