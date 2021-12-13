@@ -51,37 +51,7 @@ Il faut simplement placer un astérisque devant les éléments de votre liste.
     Et encore une autre puce !
 
 
-## Faire une citation
-
-    Ceci est un texte cité. Vous pouvez répondre à cette citation en écrivant un paragraphe normal juste en-dessous !
-
-Il vous suffit d'ajouter un > devant votre citation.
-
-> Ceci est un texte cité. Vous pouvez répondre à cette citation en écrivant un paragraphe normal juste en-dessous !
-
-####Ecrire du code
-
-#####Un code entier
-
-Voici un code en C :
-
-int main()
-{
-    printf("Hello world!\n");
-    return 0;
-}
-
-Il vous suffit d'écrire votre phrase de présentation comme n'importe quelle phrase et d'écrire votre code à la ligne.
-
-Voici un code en C :
-
-int main()
-{
-    printf("Hello world!\n");
-    return 0;
-}
-
-## Juste un morceau de code
+## Morceau de code
 ``blah blah``
 Il suffit d'entourer le morceau de code avec deux accents graves. Pour faire un accent grave, faire AltGr + 7 sur le clavier.
 
